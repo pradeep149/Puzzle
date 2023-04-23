@@ -32,7 +32,21 @@ java Puzzle
 
 Usage
 
-Upon launching the game, you will be presented with the main menu. From there, you can select the level you want to play. The game features multiple levels, each with a different grid size and order in which the tiles need to be arranged. To move the tiles, you can use the arrow keys or click on the tiles. The game automatically tracks your time, and you need to complete the puzzle within the given time to win the game.
+Upon launching the game, you will be presented with the main menu. From there, you can select the level you want to play. The game features multiple levels, each with a different difficulty levels.
+
+This puzzle consists of 5 levels which are depicted as 5 clues and each clue gets harder and harder as user progresses further.
+I am providing answer to  the clues for user's convinience
+
+The answer for the first clue is : library
+
+The answer for the second clue is : hospital
+
+The answer for the third clue is : starbucks
+
+The answer for the fourth clue is : the last supper
+
+The answer for the last and fifth clue is :  06091805 or 69185
+any of the above answer works
 
 Contributing
 Contributions to this project are welcome. If you want to contribute to the project, you can follow these steps:
